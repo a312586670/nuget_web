@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Jep.Autofac.demo.Service</id>
+        <version>1.0.1</version>
+        <title>Jep.Autofac.demo.Service</title>
+        <authors>恒图科技</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Nuget包测试</description>
+    </metadata>
+</package>
